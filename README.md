@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sami19841Careeria
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning at Careeria
+- 🌱 I’m currently learning at Sataedu
 - 📫 You can reach me from sami.palomaki@hotmail.com
 
 <!---
